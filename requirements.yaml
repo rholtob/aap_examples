@@ -1,0 +1,6 @@
+collections:
+- name: ansible.controller
+  version: 4.6.19
+
+- name: a10.acos_cli
+  version: 3.0.1
